@@ -7,3 +7,5 @@ SCULPT is a 4 stage envelope generator with Attack, Decay, Sustain and Release c
 While the module is in the sustain phase, an external CV source (like an LFO) can be used to animate the envelope further. The DECAY knob changes the slew rate of the SUS input during this stage.
 
 A gate signal to the TRG input sets the module to the attack stage. 
+
+By using a random voltage generator, the EOC output, together with the Release-CV input, can be used to create so-called "Krell patches".
