@@ -1,6 +1,6 @@
 # 8hp ADSR Module
 
-![](https://raw.githubusercontent.com/Fihdi/SCULPT/refs/heads/main/SCULPT.jpeg)
+![](https://raw.githubusercontent.com/Fihdi/SCULPT/refs/heads/main/SCULPT-IRL.jpeg)
 
 SCULPT is a 4 stage envelope generator with Attack, Decay, Sustain and Release control. Additionally, the Sustain level and the Release time can be voltage controlled. Engaging the LOOP switch connects the End-of-cycle (EOC) Gate back into the GATE input, turning the module into an LFO with variable rise and fall times.
 
